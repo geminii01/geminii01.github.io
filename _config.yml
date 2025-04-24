@@ -16,7 +16,9 @@ timezone:
 
 title: Level-Up Logs # the main title
 
-tagline: Interested in LLM # it will display as the subtitle
+tagline: |
+  Jae-min Hong 🇰🇷 <br> - Interested in LLM. <br> - 1% Growth Each Day, 365% Each Year.
+# it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -46,7 +48,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: _u7IsnG4sbh4tysylpo2_J3-aZbLf-KG1DwpLcQZ6OQ # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
