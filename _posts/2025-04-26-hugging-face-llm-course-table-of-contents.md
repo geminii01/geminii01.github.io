@@ -8,7 +8,7 @@ tags: []
 
 # Table of Contents
 
-- [CH01. Transformer models](./2025-04-26-hugging-face-llm-course-ch01-table-of-contents.md)
+- [CH01. Transformer models](/posts/hugging-face-llm-course-ch01-table-of-contents/)
 - [CH02. Using Transformers]()
 - [CH03. Fine-tuning a pretrained model]()
 - [CH04. Sharing models and tokenizers]()
