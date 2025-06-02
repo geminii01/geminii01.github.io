@@ -18,6 +18,10 @@ Prompt는 누구나 작성할 수 있지만, 최적의 Prompt를 작성하는 �
 
 `iterative process`
 
+### **Reference**
+
+- [Google의 Prompt Engineering 백서](https://www.kaggle.com/whitepaper-prompt-engineering)
+
 ---
 
 Prompt는 LLM이 특정 Output(출력)을 예측하는 데 사용하는 Input(입력)이다. 여기서 "예측"이라는 단어가 나온 이유는 LLM은 학습 데이터를 기반으로, 다음에 올 Token을 예측하는 방식으로 동작하기 때문이다. LLM의 예측 과정을 자신이 원하는 방향으로 나올 수 있게끔 하는 작업을 Prompt Engineering이라고 할 수 있다.
