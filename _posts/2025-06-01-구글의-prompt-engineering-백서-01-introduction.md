@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 구글의 Prompt Engineering 백서 - 01 Introduction
+title: 구글의 Prompt Engineering 백서 - "01 Introduction"
 date: 2025-06-01 23:37 +0900
 categories: [Prompt Engineering]
 tags: [prompt, prompt-engineering, google-whitepaper]
