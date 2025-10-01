@@ -118,7 +118,13 @@ Upstage Education의 Use Case 강의는 어떠셨나요? \
 - 가장 먼저, Upstage Education 홈페이지에 방문해 어떤 Use Case 강의들이 있는지 직접 확인해 보세요! Education, Medical, NGO/NPO 등 재미있고 실용적인 주제들을 볼 수 있습니다.
 - [x] **나만의 Use Case 구상하기**
 - 건강검진 결과를 분석했던 것처럼, 자신의 일상생활이나 업무 속 문제를 해결할 수 있는 아이디어를 떠올릴 수 있을 겁니다!
+    > Upstage의 Information Extract를 활용하여 배달 주문 내역을 추출하는 실습이 궁금하다면? \
+    > 이 포스트를 확인해 보세요! \
+    > 🔗 [Upstage Information Extract 사용 후기! (배달 주문 내역 정보 추출하기)](https://geminii01.github.io/posts/upstage-information-extract-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/)
+    {: .prompt-tip }
 - [x] **수강 후기 및 프로젝트 공유하기**
 - 강의를 수강하고 수료증을 받았다면, 자신의 경험을 LinkedIn이나 개인 블로그에 후기를 공유하고, 직접 만든 프로젝트를 공유해 보세요!
+
+---
 
 #Upstage #DocumentIntelligence #SolarPro2
