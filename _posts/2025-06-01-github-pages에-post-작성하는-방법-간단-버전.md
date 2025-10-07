@@ -57,7 +57,21 @@ tags: [{tag 1 입력}, {tag 2 입력}]
 ---
 ```
 
-YAML 형식의 아래부터는 markdown 문법으로 Post 내용을 작성하면 됩니다. 
+#### **🤔 categories와 tags도 front matter에 자동으로 생성되도록 하려면?**
+
+`_config.yml` 파일의 끝 부분에 다음의 내용을 추가해 주세요!
+```yaml
+jekyll_compose:
+  default_front_matter:
+    posts:
+      layout: post
+      categories: []
+      tags: []
+```
+빈 리스트 형식으로 2가지 필드가 자동으로 생성되는데요. \
+front matter에는 총 5가지(`layout`, `title`, `date`, `categories`, `tags`)가 포합됩니다.
+
+Front matter의 아래부터는 markdown 문법으로 Post 내용을 작성하면 됩니다.
 
 ## **Step 2**
 >로컬 서버에서 실시간으로 확인!
